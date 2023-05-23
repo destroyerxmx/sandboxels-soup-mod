@@ -1,5 +1,5 @@
 elements.soup = {
-  color: "#846851"
+  color: "#FFFF4D"
   behavior: behaviors.LIQUID,
   category: "liquids",
   viscocity: 74000,
